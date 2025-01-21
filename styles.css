@@ -1,5 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.center{
+    text-align: center;
+    padding: 10px;
+}
 .container {
-    display: inline-grid;
+    display: grid;
     width: 100vw;
     grid-template-columns: 25vw 25vw 25vw 25vw;
 }
