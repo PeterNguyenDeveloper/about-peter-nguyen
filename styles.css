@@ -1,0 +1,10 @@
+.container {
+    display: inline-grid;
+    width: 100vw;
+    grid-template-columns: 25vw 25vw 25vw 25vw;
+}
+img {
+    width: 25vw;
+    height: 25vw;
+    object-fit: cover;
+}
